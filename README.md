@@ -226,6 +226,8 @@ Optimisation was performed through hyperparameter tuning and dimensionality redu
 
 For deployment of the model and for user interactions with the model Streamlit.io (https://streamlit.io/) was used.
 
+App Link : https://fake-vs-fact-predictor.streamlit.app/
+
 
 
 
