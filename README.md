@@ -1,8 +1,9 @@
 # Fake News Predictor
 
-### Collaborators: Sindhuja Sirigeri, Tammy Powell, Wendy Ware, Uthpalie Thilakaratna-Attygalle
+### Collaborators: 
+Sindhuja Sirigeri, Tammy Powell, Wendy Ware, Uthpalie Thilakaratna-Attygalle
 
-
+----------------------------------------------------------------------------
 
 ## Project Overview
 
