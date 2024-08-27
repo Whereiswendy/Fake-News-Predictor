@@ -2,6 +2,8 @@
 
 ### Collaborators: Sindhuja Sirigeri, Tammy Powell, Wendy Ware, Uthpalie Thilakaratna-Attygalle
 
+
+
 ## Project Overview
 
 This project aims to build a Fake News Predictor using various machine learning techniques. The model is trained on a dataset of news articles labeled as fake or real and includes preprocessing steps such as text cleaning, tokenisation, and vectorisation. The project explores multiple models, including Logistic Regression, Decision Tree, Random Forest, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN).
