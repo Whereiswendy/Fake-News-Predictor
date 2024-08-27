@@ -46,7 +46,7 @@ You can access the dataset on Kaggle via this [link](https://www.kaggle.com/data
 The project successfully trained and optimised multiple models for fake news detection, ready for integration into a Streamlit app. Detailed documentation and best practices ensure that the models can be deployed efficiently and effectively.
 
 
-#######################################################################################
+-------------------------------------------------------------------------------------------------
 
 
 ## Installation
