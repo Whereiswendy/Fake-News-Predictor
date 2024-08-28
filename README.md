@@ -1,7 +1,7 @@
 # Fake News Predictor
 
 ### Collaborators: 
-Sindhuja Sirigeri, Tammy Powell, Wendy Ware, Uthpalie Thilakaratna-Attygalle
+[Sindhuja Sirigeri](https://github.com/sindhujaSirigeri), [Tammy Powell](https://github.com/rtTAP), [Wendy Ware](https://github.com/Whereiswendy), [Uthpalie Thilakaratna-Attygalle](https://github.com/Uthpalie)
 
 ----------------------------------------------------------------------------
 
