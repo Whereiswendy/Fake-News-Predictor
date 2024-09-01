@@ -1,4 +1,4 @@
-# Fake News Predictor
+# Fake versus Fact News Predictor
 
 ### Collaborators: 
 [Sindhuja Sirigeri](https://github.com/sindhujaSirigeri), [Tammy Powell](https://github.com/rtTAP), [Wendy Ware](https://github.com/Whereiswendy), [Uthpalie Thilakaratna-Attygalle](https://github.com/Uthpalie)
