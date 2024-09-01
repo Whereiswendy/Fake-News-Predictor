@@ -71,22 +71,22 @@ Research was conducted to find a suitable dataset for the project. The WELFake d
 
 2. **Data Preprocessing**
 Preprocessing involved:
-- Dropping unnecessary columns.
-- Handling missing values.
-- Removing stopwords, numerics, and special characters.
-- Lemmatisation to reduce words to their base form.
-- Case folding to ensure uniformity.
+  - Dropping unnecessary columns.
+  - Handling missing values.
+  - Removing stopwords, numerics, and special characters.
+  - Lemmatisation to reduce words to their base form.
+  - Case folding to ensure uniformity.
 
 3. **Tokenisation and Padding**
 The text was tokenised and padded to ensure consistent sequence lengths, necessary for feeding the data into machine learning models.
 
 4. **Exploratory Data Analysis (EDA)**
 EDA involved:
-- **Class Distribution Analysis**: Understanding the balance between fake and real news.
-- **Text Length Distribution**: Analysing the distribution of text lengths.
-- **Word Cloud**: Visualising the most common words.
-- **Correlation Analysis**: Exploring the relationship between text length and labels.
-- **Handling Skewness**: Addressed the skewness in the data with strategies like truncation, balancing, and robust models.
+  - **Class Distribution Analysis**: Understanding the balance between fake and real news.
+  - **Text Length Distribution**: Analysing the distribution of text lengths.
+  - **Word Cloud**: Visualising the most common words.
+  - **Correlation Analysis**: Exploring the relationship between text length and labels.
+  - **Handling Skewness**: Addressed the skewness in the data with strategies like truncation, balancing, and robust models.
 
 5. **Vectorisation**
 Experimented with Word2Vec and TF-IDF techniques, with TF-IDF being selected for the final implementation.
@@ -96,11 +96,11 @@ Combined the vectors and inspected the matrix before splitting the data into tra
 
 7. **Model Selection and Modelling**
 The following models were explored:
-- **Logistic Regression**: Optimized using GridSearchCV.
-- **Decision Tree**: Tuned for specific hyperparameters.
-- **Random Forest**: Applied Incremental PCA (IPCA) for dimensionality reduction.
-- **Support Vector Machine (SVM)**: Detailed recommendations were provided for handling its computational intensity.
-- **K-Nearest Neighbors (KNN)**: Implemented with optimized hyperparameters.
+  - **Logistic Regression**: Optimized using GridSearchCV.
+  - **Decision Tree**: Tuned for specific hyperparameters.
+  - **Random Forest**: Applied Incremental PCA (IPCA) for dimensionality reduction.
+  - **Support Vector Machine (SVM)**: Detailed recommendations were provided for handling its computational intensity.
+  - **K-Nearest Neighbors (KNN)**: Implemented with optimized hyperparameters.
 
 8. **Model Optimisation**
 
@@ -109,7 +109,6 @@ The project is prepared for deployment on Streamlit, with considerations for han
 
 10. **Project Reporting & Presentation**
 Final reporting includes a detailed README.md file and a presentation summarising the project process, findings, and outcomes.
-
 
 ### Data & Methodology Research 
 
@@ -220,8 +219,8 @@ Further research was included to be used for enhancing this solution for furture
 ## Model Optimization
 
 Optimisation was performed through hyperparameter tuning and dimensionality reduction:
-- **GridSearchCV**: Used for finding the best parameters.
-- **Incremental PCA**: Applied to reduce dimensions while retaining variance.
+  - **GridSearchCV**: Used for finding the best parameters.
+  - **Incremental PCA**: Applied to reduce dimensions while retaining variance.
 
 
 ## Deployment
